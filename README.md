@@ -1,3 +1,4 @@
+## RUN 'npm i' in folder's directory before start!
 ## Available Scripts
 
 In the project directory, you can run:
